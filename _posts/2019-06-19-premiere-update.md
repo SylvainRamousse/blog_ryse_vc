@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Premiere Update
-categories: News
+tages: News
 image: /img/uploads/frame-2-.webp
 ---
 ## **Saison 1 épisode 1**

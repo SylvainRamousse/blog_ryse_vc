@@ -1,7 +1,7 @@
 ---
 layout: post
 title: C'est la rentrée
-categories: News
+tags: News
 ---
 Bonjour à tous,
 
