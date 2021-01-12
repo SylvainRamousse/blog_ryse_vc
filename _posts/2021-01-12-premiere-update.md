@@ -55,7 +55,7 @@ Il existe des produits pour répondre plus ou moins à cette problématique, mai
 
 Pour faire court, après avoir passé une grosse période à faire des interviews, je me suis mis à la réalisation de maquettes pour commencer à rendre les choses plus concrètes, dont voici un sneak peek :
 
-![https://hs-6028210.f.hubspotstarter.net/hub/6028210/hubfs/Frame (2).jpg?width=1120&upscale=true&name=Frame (2).jpg](https://hs-6028210.f.hubspotstarter.net/hub/6028210/hubfs/Frame%20(2).jpg?width=1120&upscale=true&name=Frame%20(2).jpg)
+![First Screenshot](/img/uploads/frame-2-.webp)
 
 C'est juste un début, mais ça vous donne une première idée :)
 
