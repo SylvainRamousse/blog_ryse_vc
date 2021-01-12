@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RYSE News #3 - On avance !"
+title: "On avance !"
 ---
 Bonjour à tous !
 
