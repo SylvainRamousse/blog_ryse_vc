@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Premiere Update
+title: "#1 - Premiere Update"
 tages: News
 ---
 ## **Saison 1 épisode 1**
