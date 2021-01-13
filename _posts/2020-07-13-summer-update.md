@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summer update
+title: "#6 - Summer update"
 ---
 Hello everyone !
 
