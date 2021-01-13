@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C'est la rentrée
+title: "#2 - C'est la rentrée"
 tags: News
 ---
 Bonjour à tous,
